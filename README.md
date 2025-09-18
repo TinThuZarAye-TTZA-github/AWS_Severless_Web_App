@@ -28,3 +28,7 @@
 ## Delete 
 
 <img width="1107" height="709" alt="Screenshot 2025-09-17 at 11 34 47 PM" src="https://github.com/user-attachments/assets/3884b0be-a2dd-45bb-aceb-a612f5171856" />
+
+
+#### Reflection:
+The first challenge i faced was setting up the correct permission and making sure my Lambda function could access the right DynamoDB table. Another challenge was learning how to structure the POST, GET, PUY and DELETE methods through API gateway.
